@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhsanShah-23
+- 👋 Hi, I’m AhsanShah
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Front-End Projects
